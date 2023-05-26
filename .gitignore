@@ -1,0 +1,7 @@
+.idea/
+cmake-build-debug/
+cmake/
+gmon.out
+Profile.*
+Profile*
+!Profiler.py
